@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+env/
+playwright/.cache/
+test-results/
+playwright-report/
+*.log
+.idea/
